@@ -1,3 +1,4 @@
 api=abcd1234
 mail=abc@xyz.com
 password=12345678
+token=xyz123
