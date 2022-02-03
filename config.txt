@@ -1,0 +1,2 @@
+mail=abc@xyz.com
+password=12345678
